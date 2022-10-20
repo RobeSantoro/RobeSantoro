@@ -4,6 +4,8 @@ I'm [Robe Santoro](https://linktr.ee/robesantoro?utm_source=linktree_profile_sha
 
 In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collective of artists, designers, and technicians, specializing in content creation for [large-scale projects](https://video.manamana.net/-jlZbOPR-scwWNcLP_i_iE8L7Sc=/lpGxN8kGjAqQexnvA07_BP1u-3PE), set and visual design for opera, performing arts, and engaging, interactive experiences.
 
+https://user-images.githubusercontent.com/1170571/196954999-5403883f-137b-4bed-a26b-e9dd91f7a539.mp4
+
 A few years ago, I started learning web development (HTML, CSS, JS, PHP with Laravel @Aulab), then specializing in the ThreeJS library to bring my CG knowledge to the web...
 
 - [Interactive 3d Bunny](https://interactive-3d-bunny.vercel.app/)
