@@ -1,10 +1,12 @@
 # Hi there... 👋
 
-I'm [Robe Santoro](https://linktr.ee/robesantoro?utm_source=linktree_profile_share&ltsid=84df86d4-5bfe-4be0-886d-b9e3a9a4b0bc), freelance Cg Artist with more than ten years of experience in 3d Animation, Architectural Projection-Mapping, and Motion Graphic Design. I worked on [many projects](https://vimeo.com/robesantoro) for clients such as Rotary International, SONY, Samsung,  HTC, INA, Vodafone, Philip Morris, and AUDI.
+I'm [Robe Santoro](https://linktr.ee/robesantoro), freelance Cg Artist with more than ten years of experience in 3d Animation, Architectural Projection-Mapping, and Motion Graphic Design. I worked on [many projects](https://vimeo.com/robesantoro/videos) for clients such as Rotary International, SONY, Samsung,  HTC, INA, Vodafone, Philip Morris, and AUDI.
+
+https://user-images.githubusercontent.com/1170571/196966158-76a67dd2-b9cf-465c-9611-3a6ae68b4a8b.mp4
 
 In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collective of artists, designers, and technicians, specializing in content creation for [large-scale projects](https://video.manamana.net/-jlZbOPR-scwWNcLP_i_iE8L7Sc=/lpGxN8kGjAqQexnvA07_BP1u-3PE), set and visual design for opera, performing arts, and engaging, interactive experiences.
 
-https://user-images.githubusercontent.com/1170571/196954999-5403883f-137b-4bed-a26b-e9dd91f7a539.mp4
+https://user-images.githubusercontent.com/1170571/196964784-1d149396-b1f1-4626-85ad-d00c076e8e50.mp4
 
 A few years ago, I started learning web development (HTML, CSS, JS, PHP with Laravel @Aulab), then specializing in the ThreeJS library to bring my CG knowledge to the web...
 
@@ -14,4 +16,4 @@ A few years ago, I started learning web development (HTML, CSS, JS, PHP with Lar
 - [Ready Player Me Avatar WASD Controller](https://three-js-avatar-controller.vercel.app/)
 - [Point Light with shadows and fake area lighs - TroisJS](https://iad-demo-troisjs-e4gh7mxrk-robesantoro.vercel.app/)
 
-Since July '22, I'm also coding with python, creating workflows automation and custom tools and addons for Blender...
+Since July '22, I'm also coding with python, creating workflows automation, custom tools and addons for Blender...
