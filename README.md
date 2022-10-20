@@ -4,7 +4,7 @@ I'm [Robe Santoro](https://linktr.ee/robesantoro), freelance Cg Artist with more
 
 https://user-images.githubusercontent.com/1170571/196966158-76a67dd2-b9cf-465c-9611-3a6ae68b4a8b.mp4
 
-In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collective of artists, designers, and technicians, specializing in content creation for [large-scale projects](https://video.manamana.net/-jlZbOPR-scwWNcLP_i_iE8L7Sc=/lpGxN8kGjAqQexnvA07_BP1u-3PE), set and visual design for opera, and performing arts working for massive concerts featuring Placido Domingo and Andrea Bocelli.
+In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collective of artists, designers, and technicians, specializing in content creation for large-scale projects, set and visual design for opera, and performing arts working for massive concerts featuring Placido Domingo and Andrea Bocelli.
 
 https://user-images.githubusercontent.com/1170571/196964784-1d149396-b1f1-4626-85ad-d00c076e8e50.mp4
 
