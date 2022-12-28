@@ -8,7 +8,7 @@ In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collecti
 
 https://user-images.githubusercontent.com/1170571/196964784-1d149396-b1f1-4626-85ad-d00c076e8e50.mp4
 
-During those years, I fell in love with software architecture and abstractions. So I started a full-stack Bootcamp @Aulab.it, then deepening my OOP skills on the one hand and learning the ThreeJS library, on the other hand, to bring my CG knowledge to the web.
+During those years, I fell in love with software architecture and abstractions. So I started a full-stack Bootcamp at Aulab Hackademy, deepening my OOP skills on the one hand and learning the ThreeJS library on the other hand, to bring my CG knowledge to the web.
 
 - [Interactive 3d Bunny](https://interactive-3d-bunny.vercel.app/)
 - [ADC Logo Particles Test](https://apulia-digital-center-3d-logo.vercel.app/)
