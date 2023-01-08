@@ -1,6 +1,6 @@
 # Hi there... 👋
 
-I'm [Robe Santoro](https://linktr.ee/robesantoro), a freelance 3D Generalist with more than 10 years of experience in 3d Animation, Architectural Projection-Mapping, and Motion Graphic Design. I worked on [many projects](https://vimeo.com/robesantoro/videos) for clients such as Rotary International, SONY, Samsung,  HTC, INA, Vodafone, Philip Morris, and AUDI.
+I'm [Robe Santoro](https://linktr.ee/robesantoro), a freelance 3D Generalist with more than 10 years of experience in 3d Animation, Architectural Projection-Mapping, and Motion Graphic Design. I worked on [many projects](https://vimeo.com/robesantoro/videos) for clients such as SONY, Samsung, HTC, Vodafone, Philip Morris, and AUDI.
 
 https://user-images.githubusercontent.com/1170571/196966158-76a67dd2-b9cf-465c-9611-3a6ae68b4a8b.mp4
 
