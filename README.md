@@ -19,3 +19,5 @@ Since 2022, I'm also coding with python, creating workflows automation and custo
 Check my latest project:
 [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/ReadyPlayerMe-Blender-Tools)
 A collection Blender tools for helping explore the Ready Player Me API
+
+![](https://komarev.com/ghpvc/?username=RobeSantoro&label=PROFILE+VIEWS&color=21525D)
