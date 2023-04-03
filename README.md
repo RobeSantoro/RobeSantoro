@@ -17,7 +17,9 @@ Feel free to check them out:
 - [Three JS Avatar Template](https://vite-three-js-avatar-template.vercel.app/)
 - [Ready Player Me Avatar WASD Controller](https://three-js-avatar-controller.vercel.app/)
 
-Since 2022, I'm also using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber components.
+Since 2022, I'm also using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components:
+
+[Blender2Drei](https://github.com/RobeSantoro/blender2drei)
 
 Check my latest public repo [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/ReadyPlayerMe-Blender-Tools), a collection of Blender tools for helping explore the Ready Player Me API.
 
