@@ -10,17 +10,10 @@ In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collecti
 
 During those years, I've always done some `scripting` in Maya MEL and Python, creating custom tools to optimize processes and workflow for my team and me. During the first wave of the pandemic, I decided to extend my knowledge in web programming, and I started a full-stack course, deepening my OOP skills on the one hand and learning the ThreeJS library on the other to bring my CG knowledge to the web.
 
-The following is a selection of projects/exercises I've done. All of them are open-source and free to use.  
-Feel free to check them out:
+Since 2022, I'm also been using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2Drei](https://github.com/RobeSantoro/blender2drei)
 
-- [Interactive 3d Bunny](https://interactive-3d-bunny.vercel.app/)
-- [Three JS Avatar Template](https://vite-three-js-avatar-template.vercel.app/)
-- [Ready Player Me Avatar WASD Controller](https://three-js-avatar-controller.vercel.app/)
+With it, I created this website: [Publifest](https://publifest-3d-r3f.vercel.app/)
 
-Since 2022, I'm also using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components:
-
-[Blender2Drei](https://github.com/RobeSantoro/blender2drei)
-
-Check my latest public repo [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/ReadyPlayerMe-Blender-Tools), a collection of Blender tools for helping explore the Ready Player Me API.
+Check also this repo [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/ReadyPlayerMe-Blender-Tools), a collection of Blender tools for helping explore the Ready Player Me API...
 
 ![View Counter](https://komarev.com/ghpvc/?username=RobeSantoro&label=PROFILE+VIEWS&color=21525D)
