@@ -10,7 +10,7 @@ In 2018 I founded [Blending Pixels](https://www.blendingpixels.com/), a collecti
 
 During those years, I've always done some `scripting` in Maya MEL and Python, creating custom tools to optimize processes and workflow for my team and me. During the first wave of the pandemic, I decided to extend my knowledge in web programming, and I started a full-stack course, deepening my OOP skills on the one hand and learning the ThreeJS library on the other to bring my CG knowledge to the web.
 
-Since 2022, I'm also been using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2Drei](https://github.com/RobeSantoro/blender2drei)
+Since 2022, I'm also been using the Blender Python API to create tools for Matterport 3D Spaces. I'm also working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2React](https://github.com/RobeSantoro/Blender2React)
 
 With it, I created this website: [Publifest](https://publifest-3d-r3f.vercel.app/)
 
