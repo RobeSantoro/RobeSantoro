@@ -18,7 +18,7 @@ Check this repo [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/R
 
 Recently, I started working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2React](https://github.com/RobeSantoro/Blender2React)
 
-With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and 4D Suite Touchwall experiences.
+With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and [4D Suite Touchwall App](https://4d-suite-touchwall-git-demo-robesantoro.vercel.app/) experiences.
 
 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or [Twitter](https://twitter.com/RobeSantoro)!
 
