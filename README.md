@@ -22,7 +22,49 @@ With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and [4D Sui
 
 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or [Twitter](https://twitter.com/RobeSantoro)!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## Languages and Tools
+
+### Design
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat&logo=adobe-illustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-000000?style=flat&logo=adobe-indesign)  
+![Adobe XD](https://img.shields.io/badge/-XD-000000?style=flat&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+
+![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=flat&logo=adobe-after-effects)
+![Cavalry](https://img.shields.io/badge/-Cavalry-000000?style=flat&logo=cavalry)  
+![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=orange)
+![Maya](https://img.shields.io/badge/-Maya-000000?style=flat&logo=autodesk&logoColor=blue)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unreal-engine)  
+
+### Development
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Blender Python API](https://img.shields.io/badge/-Blender%20Python%20API-000000?style=flat&logo=blender&logoColor=orange)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)  
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?style=flat)
+![Drei](https://img.shields.io/badge/-Drei-000000?style=flat)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-000000?style=flat&logo=daisy-css)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)  
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 ![View Counter](https://komarev.com/ghpvc/?username=RobeSantoro&label=PROFILE+VIEWS&color=21525D)
