@@ -41,8 +41,9 @@ Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or 
 ### Development
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![Blender Python API](https://img.shields.io/badge/-Blender%20Python%20API-000000?style=flat&logo=blender&logoColor=orange)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)  
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?style=flat)
 ![Drei](https://img.shields.io/badge/-Drei-000000?style=flat)
@@ -67,4 +68,4 @@ Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
-![View Counter](https://komarev.com/ghpvc/?username=RobeSantoro&label=PROFILE+VIEWS&color=21525D)
+![View Counter](https://komarev.com/ghpvc/?username=RobeSantoro&label=Profile-Views&color=ff00ee&style=flat)
