@@ -26,19 +26,20 @@ Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or 
 
 ### Design
 
+![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=flat&logo=adobe-after-effects)
+![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=orange)
+![Maya](https://img.shields.io/badge/-Maya-000000?style=flat&logo=autodesk&logoColor=blue)  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unreal-engine)  
+![Adobe XD](https://img.shields.io/badge/-XD-000000?style=flat&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat&logo=adobe-illustrator)
 ![InDesign](https://img.shields.io/badge/-InDesign-000000?style=flat&logo=adobe-indesign)  
-![Adobe XD](https://img.shields.io/badge/-XD-000000?style=flat&logo=adobe-xd)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-
-![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=flat&logo=adobe-after-effects)
-![Cavalry](https://img.shields.io/badge/-Cavalry-000000?style=flat&logo=cavalry)  
-![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=orange)
-![Maya](https://img.shields.io/badge/-Maya-000000?style=flat&logo=autodesk&logoColor=blue)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unreal-engine)  
 
 ### Development
+
+![VVVV Beta](https://img.shields.io/badge/-VVVV-000000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAkACQAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAiACIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/2Q==)
+![VVVV Gamma](https://img.shields.io/badge/-VVVV%20Gamma-000000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAkACQAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAlACUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD61ooor/Ow/cAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z)
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
