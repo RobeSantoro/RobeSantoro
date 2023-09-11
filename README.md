@@ -57,12 +57,11 @@ Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
