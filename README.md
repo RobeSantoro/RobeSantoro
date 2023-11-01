@@ -16,7 +16,7 @@ Since 2022, I've also been using the Blender Python API to create tools for Matt
 
 Check this repo [ReadyPlayerMe - Blender Tools](https://github.com/RobeSantoro/ReadyPlayerMe-Blender-Tools), a collection of Blender tools for helping explore the Ready Player Me API...
 
-Recently, I started working on a Blender Addon to translate Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2React](https://github.com/RobeSantoro/Blender2React)
+Recently, I started working on a Blender Addon to transform Blender scenes into Scrolling 3D experiences using React Three Fiber and Drei components: [Blender2React](https://github.com/RobeSantoro/Blender2React)
 
 With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and [4D Suite Touchwall App](https://4d-suite-touchwall-git-demo-robesantoro.vercel.app/) experiences.
 
