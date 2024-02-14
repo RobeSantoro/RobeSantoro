@@ -20,6 +20,8 @@ Recently, I started working on a Blender Addon to transform Blender scenes into 
 
 With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and [4D Suite Touchwall App](https://4d-suite-touchwall-git-demo-robesantoro.vercel.app/) experiences.
 
+Studying the integration of 3d objects inside Gaussian Splats scenes: [https://github.com/RobeSantoro/uniba-gsplat](https://uniba-gsplat.vercel.app/))
+
 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or [Twitter](https://twitter.com/RobeSantoro)!
 
 ## Languages and Tools
