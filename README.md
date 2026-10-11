@@ -20,7 +20,7 @@ With it, I created [Publifest](https://publifest-3d-r3f.vercel.app/) and [4D Sui
 
 Researching on extending events with [realtime digital twins](https://medimex-mapping.vercel.app/) and on the integration of 3d objects in [Gaussian Splats scenes](https://uniba-gsplat.vercel.app/), while working on [interactive installations](https://www.blendingpixels.com/projects/attraverso) and [projection mapping shows](https://www.blendingpixels.com/projects/medimex-2024) using ComfyUI and the latest AI workflows.
 
-🚀 **I’m currently building: <img src="https://popshot.blendingpixels.com/favicon.ico" width="16" height="16" alt=""> [PopShot](https://popshot.blendingpixels.com/)** conversational AI photo-machine.
+## 🚀 **I’m currently building: <img src="https://popshot.blendingpixels.com/favicon.ico" width="16" height="16" alt=""> [PopShot](https://popshot.blendingpixels.com/)** conversational AI photo-machine.
 
 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/robesantoro/) or [Twitter](https://twitter.com/RobeSantoro)!
 
